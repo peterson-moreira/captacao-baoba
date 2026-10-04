@@ -1,0 +1,400 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<meta name="robots" content="noindex, nofollow">
+<title>Cérebro de Captação · Fundo Baobá · estudo independente de Peterson Moreira</title>
+<meta name="description" content="Estudo independente, feito com dados públicos, sobre como começar a trabalhar a mobilização de recursos com pessoas físicas no Fundo Baobá.">
+<style>
+  :root{
+    --ink:#1f1a17; --muted:#5b524c; --line:#e6ddd3;
+    --brand:#6b3410; --accent:#b5651d; --soft:#f7f1ea; --white:#ffffff;
+    --ok:#2f6b4f;
+  }
+  *{box-sizing:border-box}
+  html{scroll-behavior:smooth}
+  body{margin:0;font-family:-apple-system,BlinkMacSystemFont,"Segoe UI",Roboto,Helvetica,Arial,sans-serif;color:var(--ink);background:var(--white);line-height:1.6;font-size:17px}
+  a{color:var(--brand)}
+  .wrap{max-width:1040px;margin:0 auto;padding:0 24px}
+  header.hero{background:var(--brand);color:#fff;padding:64px 0 48px}
+  .hero .kicker{text-transform:uppercase;letter-spacing:.12em;font-size:13px;opacity:.85;margin:0 0 12px}
+  .hero h1{font-family:Georgia,"Times New Roman",serif;font-size:44px;line-height:1.15;margin:0 0 16px;font-weight:700}
+  .hero p.lead{font-size:20px;max-width:760px;margin:0 0 20px;opacity:.95}
+  .hero .meta{font-size:15px;opacity:.85;margin:0}
+  .notice{background:#fff7ec;border:1px solid #f0d9bd;border-radius:10px;padding:14px 18px;margin:28px 0 0;color:#5a3a1c;font-size:15px}
+  nav.toc{background:var(--soft);border-bottom:1px solid var(--line);position:sticky;top:0;z-index:5}
+  nav.toc ul{list-style:none;margin:0;padding:10px 0;display:flex;flex-wrap:wrap;gap:6px 14px;font-size:13.5px}
+  nav.toc a{text-decoration:none;color:var(--muted)}
+  nav.toc a:hover{color:var(--brand)}
+  section{padding:56px 0;border-bottom:1px solid var(--line)}
+  section.alt{background:var(--soft)}
+  h2{font-family:Georgia,"Times New Roman",serif;font-size:32px;line-height:1.2;margin:0 0 8px;color:var(--brand)}
+  .sub{color:var(--muted);margin:0 0 28px;max-width:780px}
+  h3{font-size:19px;margin:0 0 6px}
+  .grid{display:grid;gap:18px}
+  .g2{grid-template-columns:repeat(2,1fr)}
+  .g3{grid-template-columns:repeat(3,1fr)}
+  .g4{grid-template-columns:repeat(4,1fr)}
+  .card{background:#fff;border:1px solid var(--line);border-radius:12px;padding:20px}
+  .stat .num{font-family:Georgia,"Times New Roman",serif;font-size:34px;color:var(--accent);font-weight:700;line-height:1.1}
+  .stat .lbl{font-size:15px;color:var(--muted);margin-top:6px}
+  .src{font-size:13px;color:var(--muted)}
+  .obs{display:grid;grid-template-columns:44px 1fr;gap:14px;align-items:start}
+  .obs .ic{width:44px;height:44px;border-radius:50%;background:var(--brand);color:#fff;display:flex;align-items:center;justify-content:center;font-weight:700;font-family:Georgia,serif}
+  .hyp{position:relative;padding-left:64px}
+  .hyp .n{position:absolute;left:20px;top:18px;font-family:Georgia,serif;font-size:30px;color:var(--accent);font-weight:700}
+  .funnel{display:grid;grid-template-columns:repeat(4,1fr);gap:0;margin-top:8px}
+  .stage{padding:20px;color:#fff;min-height:100%}
+  .stage:nth-child(1){background:#8a4a1c;border-radius:12px 0 0 12px}
+  .stage:nth-child(2){background:#7a3f17}
+  .stage:nth-child(3){background:#6b3410}
+  .stage:nth-child(4){background:#4f260b;border-radius:0 12px 12px 0}
+  .stage h3{color:#fff;font-family:Georgia,serif;font-size:22px}
+  .stage .goal{font-size:15px;opacity:.95;margin:0 0 12px}
+  .stage ul{margin:0;padding-left:18px;font-size:14.5px}
+  .stage .kpi{margin-top:12px;font-size:13.5px;background:rgba(255,255,255,.12);padding:8px 10px;border-radius:8px}
+  table{width:100%;border-collapse:collapse;background:#fff;border:1px solid var(--line);border-radius:12px;overflow:hidden;font-size:15.5px}
+  th,td{text-align:left;padding:12px 14px;border-bottom:1px solid var(--line);vertical-align:top}
+  th{background:#efe5da;color:var(--brand);font-size:14px;text-transform:uppercase;letter-spacing:.05em}
+  tr:last-child td{border-bottom:none}
+  .timeline{border-left:3px solid var(--accent);margin-left:8px;padding-left:24px}
+  .tl{position:relative;margin:0 0 22px}
+  .tl:before{content:"";position:absolute;left:-33px;top:6px;width:15px;height:15px;border-radius:50%;background:#fff;border:3px solid var(--accent)}
+  .tl .date{font-weight:700;color:var(--brand)}
+  .pill{display:inline-block;font-size:12.5px;padding:2px 10px;border-radius:999px;background:#efe5da;color:var(--brand);margin-left:6px;vertical-align:middle}
+  .cols3 .card h3{color:var(--brand);font-family:Georgia,serif;font-size:22px}
+  .cols3 .card .when{font-size:13px;text-transform:uppercase;letter-spacing:.08em;color:var(--accent);font-weight:700}
+  ul.clean{padding-left:20px;margin:8px 0 0}
+  ul.clean li{margin:4px 0}
+  .q{font-family:Georgia,serif;font-size:19px;border-left:4px solid var(--accent);padding:4px 0 4px 16px;margin:0 0 14px}
+  .about{display:grid;grid-template-columns:1.4fr 1fr;gap:28px;align-items:start}
+  footer{background:#2a160a;color:#e8dccf;padding:44px 0;font-size:14.5px}
+  footer a{color:#f3c99c}
+  footer ol{padding-left:20px}
+  footer li{margin:5px 0}
+  @media (max-width:860px){
+    .g3,.g4,.funnel,.about{grid-template-columns:1fr}
+    .g2{grid-template-columns:1fr}
+    .stage{border-radius:0!important}
+    .stage:first-child{border-radius:12px 12px 0 0!important}
+    .stage:last-child{border-radius:0 0 12px 12px!important}
+    .hero h1{font-size:34px}
+    nav.toc{position:static}
+    body{font-size:16px}
+  }
+</style>
+</head>
+<body>
+
+<header class="hero">
+  <div class="wrap">
+    <p class="kicker">Estudo independente · mobilização de recursos com pessoas físicas</p>
+    <h1>Cérebro de Captação<br>para o Fundo Baobá</h1>
+    <p class="lead">Como eu começaria a trabalhar a captação com pessoas físicas no Baobá: o que os dados públicos mostram, cinco hipóteses para testar, a jornada do doador, o calendário, os indicadores e os primeiros 90 dias.</p>
+    <p class="meta">Por Peterson Moreira · outubro de 2026 · feito apenas com informações públicas</p>
+    <div class="notice"><strong>Antes de ler:</strong> este não é um material do Fundo Baobá. São hipóteses de quem olha de fora, para serem testadas com a equipe, com os dados do CRM e, principalmente, com quem já doa.</div>
+  </div>
+</header>
+
+<nav class="toc" aria-label="Seções">
+  <div class="wrap">
+    <ul>
+      <li><a href="#ponto-de-partida">Ponto de partida</a></li>
+      <li><a href="#leitura">Leitura de fora</a></li>
+      <li><a href="#hipoteses">Hipóteses</a></li>
+      <li><a href="#jornada">Jornada do doador</a></li>
+      <li><a href="#calendario">Calendário</a></li>
+      <li><a href="#indicadores">Indicadores</a></li>
+      <li><a href="#empresas">Empresas</a></li>
+      <li><a href="#ia">Como a IA entra</a></li>
+      <li><a href="#90-dias">90 dias</a></li>
+      <li><a href="#perguntas">Perguntas</a></li>
+      <li><a href="#fontes">Fontes</a></li>
+    </ul>
+  </div>
+</nav>
+
+<main>
+
+<section id="ponto-de-partida">
+  <div class="wrap">
+    <h2>O ponto de partida</h2>
+    <p class="sub">O Baobá tem algo que poucas organizações têm para conversar com quem doa: uma causa clara, quinze anos de história e um modelo feito para durar.</p>
+    <div class="grid g4">
+      <div class="card stat"><div class="num">2011</div><div class="lbl">criação formal do fundo; as primeiras captações vêm em 2014 <span class="src">[2]</span></div></div>
+      <div class="card stat"><div class="num">+1.200</div><div class="lbl">iniciativas apoiadas até junho de 2024 <span class="src">[1]</span></div></div>
+      <div class="card stat"><div class="num">+1,3 mi</div><div class="lbl">pessoas alcançadas de forma indireta <span class="src">[1]</span></div></div>
+      <div class="card stat"><div class="num">4</div><div class="lbl">áreas: viver com dignidade, educação, desenvolvimento econômico, comunicação e memória <span class="src">[1]</span></div></div>
+    </div>
+    <div class="grid g3" style="margin-top:18px">
+      <div class="card">
+        <h3>Um fundo patrimonial</h3>
+        <p>O principal não é gasto: gera rendimentos, e uma parte deles financia programas e apoios. É o próprio baobá como imagem, raiz que dura. <span class="src">[3]</span></p>
+      </div>
+      <div class="card">
+        <h3>Uma contrapartida que multiplica</h3>
+        <p>Em 2020, a direção do Baobá descrevia uma contrapartida da Fundação Kellogg ao fundo patrimonial: R$ 3 para cada R$ 1 captado no Brasil e R$ 2 para cada R$ 1 captado no exterior. <span class="src">[9]</span></p>
+      </div>
+      <div class="card">
+        <h3>Um círculo de doadores</h3>
+        <p>Em novembro de 2021, o Baobá lançou o primeiro Giving Circle do país liderado por pessoas negras, pensado para doações individuais de R$ 5 mil a R$ 50 mil. <span class="src">[5]</span></p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="leitura" class="alt">
+  <div class="wrap">
+    <h2>Leitura de fora</h2>
+    <p class="sub">O que dá para ver sem acesso a nenhum dado interno, cruzado com a Pesquisa Doação Brasil 2024, do IDIS.</p>
+    <div class="grid g2">
+      <div class="card obs"><div class="ic">1</div><div>
+        <h3>Há duas portas de doação</h3>
+        <p>A página de doação do site leva a uma plataforma (Doare); os botões das páginas institucionais levam a outra (Colabore). As experiências e os números de impacto mudam de uma para outra: o site fala em mais de 1.200 iniciativas; a mensagem de agradecimento da segunda plataforma, em mais de 900 projetos. <span class="src">[4] [8] [1]</span></p>
+      </div></div>
+      <div class="card obs"><div class="ic">2</div><div>
+        <h3>A base para recorrência já existe</h3>
+        <p>O formulário oferece doação mensal ou única, valores sugeridos de R$ 20 a R$ 120, Pix, cartão e boleto, e um aceite de comunicações que já prevê pedidos de aumento e de reativação. A estrutura das réguas está pronta para ser usada. <span class="src">[8]</span></p>
+      </div></div>
+      <div class="card obs"><div class="ic">3</div><div>
+        <h3>Confiança é o gargalo do setor</h3>
+        <p>Só 33% dos brasileiros acham que as ONGs deixam claro o que fazem com o dinheiro, 49% já deixaram de doar por notícias negativas, e a falta de confiança como motivo para não doar subiu de 7% para 24%. Na página de relatórios do Baobá, o mais recente publicado é o de 2022. <span class="src">[10] [6]</span></p>
+      </div></div>
+      <div class="card obs"><div class="ic">4</div><div>
+        <h3>A causa precisa ser traduzida</h3>
+        <p>As causas mais buscadas por quem doa são crianças (32%), combate à fome (30%) e saúde (26%). Equidade racial atravessa todas elas, e o Baobá tem histórias concretas em educação, saúde quilombola e trabalho. O desafio é contar por esse caminho. <span class="src">[10] [1]</span></p>
+      </div></div>
+      <div class="card obs"><div class="ic">5</div><div>
+        <h3>O Nordeste doa mais</h3>
+        <p>A região tem a maior proporção de doadores institucionais do país (49%) e é onde o Baobá concentra parte significativa dos seus apoios. Há uma base regional natural a construir. <span class="src">[10] [1]</span></p>
+      </div></div>
+      <div class="card obs"><div class="ic">6</div><div>
+        <h3>O mercado cresceu</h3>
+        <p>As doações de pessoas físicas somaram R$ 24,3 bilhões em 2024, o maior volume da série, e a mediana anual por doador foi de R$ 480. Isso cabe numa doação mensal de R$ 40. <span class="src">[10]</span></p>
+      </div></div>
+    </div>
+  </div>
+</section>
+
+<section id="hipoteses">
+  <div class="wrap">
+    <h2>Cinco hipóteses para testar</h2>
+    <p class="sub">Nenhuma delas é uma conclusão. Cada uma vira um teste com meta, prazo e indicador.</p>
+    <div class="grid g2">
+      <div class="card hyp"><span class="n">1</span>
+        <h3>Uma porta só</h3>
+        <p>Unificar a jornada de doação em uma plataforma, com o mesmo número de impacto em todos os pontos e a conversão medida do clique à doação.</p>
+      </div>
+      <div class="card hyp"><span class="n">2</span>
+        <h3>Recorrência como padrão</h3>
+        <p>Deixar a doação mensal como opção principal, com R$ 40 em destaque, perto da mediana anual do país. Recorrência é o que faz um fundo patrimonial crescer.</p>
+      </div>
+      <div class="card hyp"><span class="n">3</span>
+        <h3>A doação que permanece</h3>
+        <p>Contar o fundo patrimonial como vantagem: o principal fica, os rendimentos apoiam lideranças negras ano após ano. E, se a contrapartida descrita em 2020 ainda existir, mostrar quanto cada real se torna.</p>
+      </div>
+      <div class="card hyp"><span class="n">4</span>
+        <h3>Prestação de contas como campanha</h3>
+        <p>Relatório anual atualizado, carta ao doador e histórias de quem foi apoiado. Com a confiança em baixa no setor, transparência é argumento de conversão, não só obrigação.</p>
+      </div>
+      <div class="card hyp"><span class="n">5</span>
+        <h3>Uma escada de doadores</h3>
+        <p>Do doador mensal ao Giving Circle: critérios claros para convidar quem doa há mais tempo ou aumenta o valor a dar o próximo passo.</p>
+      </div>
+      <div class="card hyp" style="background:#fff7ec"><span class="n">?</span>
+        <h3>O que pode derrubar estas hipóteses</h3>
+        <p>Os dados do CRM. Se a base já for majoritariamente recorrente, ou se a contrapartida não existir mais, a ordem muda. Por isso os primeiros 30 dias são de escuta.</p>
+      </div>
+    </div>
+  </div>
+</section>
+
+<section id="jornada" class="alt">
+  <div class="wrap">
+    <h2>Jornada do doador</h2>
+    <p class="sub">É o mesmo funil que usei para organizar a comunicação e os indicadores da Aliança pelo Impacto, programa do ICE: conectar, convencer, converter e continuar.</p>
+    <div class="funnel">
+      <div class="stage">
+        <h3>Conectar</h3>
+        <p class="goal">Ser encontrado por quem já procura a causa.</p>
+        <ul>
+          <li>Google Ad Grants: até US$ 10 mil por mês em anúncios de busca para ONGs elegíveis <span class="src" style="color:#f3d6b8">[11]</span></li>
+          <li>Redes, imprensa negra e parceiros</li>
+          <li>Datas do calendário</li>
+        </ul>
+        <div class="kpi">Visitas à página de doação, origem do tráfego, cliques</div>
+      </div>
+      <div class="stage">
+        <h3>Convencer</h3>
+        <p class="goal">Transformar visita em confiança.</p>
+        <ul>
+          <li>Histórias de quem foi apoiado</li>
+          <li>Prestação de contas simples</li>
+          <li>Depoimentos de quem doa</li>
+          <li>Inscrição no boletim</li>
+        </ul>
+        <div class="kpi">Inscrições, abertura de e-mails, tempo na página</div>
+      </div>
+      <div class="stage">
+        <h3>Converter</h3>
+        <p class="goal">Primeira doação, de preferência mensal.</p>
+        <ul>
+          <li>Formulário curto para a primeira doação</li>
+          <li>Pix e cartão em destaque</li>
+          <li>Valor sugerido com o que ele faz</li>
+        </ul>
+        <div class="kpi">Conversão da página, % mensal, valor médio</div>
+      </div>
+      <div class="stage">
+        <h3>Continuar</h3>
+        <p class="goal">Reter, aumentar e reativar.</p>
+        <ul>
+          <li>Boas-vindas: dia 0, dia 7 e dia 30</li>
+          <li>Aniversário de doação e convite a aumentar</li>
+          <li>Recuperação de pagamento que falhou</li>
+          <li>Reativação após 90 dias</li>
+        </ul>
+        <div class="kpi">Retenção em 12 meses, cancelamentos, recuperação</div>
+      </div>
+    </div>
+    <div class="grid g3" style="margin-top:22px">
+      <div class="card"><h3>Segmentar por comportamento</h3><p>Recência, frequência e valor de cada doação, não perfis presumidos. Quem doou uma vez em 20 de novembro recebe uma conversa diferente de quem doa todo mês há dois anos.</p></div>
+      <div class="card"><h3>Uma régua, vários canais</h3><p>E-mail como base, WhatsApp para recuperar pagamentos e momentos-chave, sempre com aceite registrado e saída fácil, como pede a LGPD.</p></div>
+      <div class="card"><h3>Teste antes de escalar</h3><p>Uma variável por vez: valor sugerido, assunto do e-mail, ordem do formulário. Resultado medido antes de virar padrão.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="calendario">
+  <div class="wrap">
+    <h2>Calendário de campanhas</h2>
+    <p class="sub">Datas que já mobilizam atenção e que conversam com a missão do Baobá. Cada uma pede uma história, uma meta e um pedido claro.</p>
+    <div class="timeline">
+      <div class="tl"><span class="date">20 de novembro</span><span class="pill">principal do ano</span><br>Dia Nacional de Zumbi e da Consciência Negra, feriado nacional. Momento de maior atenção à causa, para pessoas e para empresas.</div>
+      <div class="tl"><span class="date">1º de dezembro de 2026</span><br>Dia de Doar, a versão brasileira do GivingTuesday. Boa data para uma meta coletiva e para o primeiro pedido de recorrência.</div>
+      <div class="tl"><span class="date">Dezembro</span><br>Fim de ano e 13º salário. Campanha de balanço do ano com prestação de contas e convite à doação mensal.</div>
+      <div class="tl"><span class="date">21 de março</span><br>Dia Internacional pela Eliminação da Discriminação Racial.</div>
+      <div class="tl"><span class="date">13 de maio</span><br>Data que o movimento negro marca como dia de reflexão e denúncia do racismo. Pede tom de memória, não de celebração.</div>
+      <div class="tl"><span class="date">25 de julho</span><br>Dia Internacional da Mulher Negra Latino-Americana e Caribenha e Dia Nacional de Tereza de Benguela. Conversa direto com o Programa Marielle Franco.</div>
+      <div class="tl"><span class="date">Resultados de editais</span><br>Cada lista de selecionados é uma prova de impacto pronta para virar história e agradecimento a quem doou.</div>
+    </div>
+  </div>
+</section>
+
+<section id="indicadores" class="alt">
+  <div class="wrap">
+    <h2>O painel que eu montaria</h2>
+    <p class="sub">Poucos indicadores, revistos todo mês, com metas definidas junto com a equipe depois de ver a linha de base.</p>
+    <table>
+      <thead><tr><th>Indicador</th><th>O que mostra</th><th>Etapa</th></tr></thead>
+      <tbody>
+        <tr><td>Visitas à página de doação, por origem</td><td>Quais canais trazem gente com intenção de doar</td><td>Conectar</td></tr>
+        <tr><td>Ad Grants: cliques, conversões e uso do crédito</td><td>Se o recurso gratuito do Google está virando doação</td><td>Conectar</td></tr>
+        <tr><td>Inscrições no boletim e abertura de e-mails</td><td>Se o conteúdo está construindo confiança</td><td>Convencer</td></tr>
+        <tr><td>Taxa de conversão da página</td><td>Quantas visitas viram doação</td><td>Converter</td></tr>
+        <tr><td>Novos doadores e % de doações mensais</td><td>Ritmo de entrada e qualidade da base</td><td>Converter</td></tr>
+        <tr><td>Valor médio, mensal e único</td><td>Efeito dos valores sugeridos e dos pedidos de aumento</td><td>Converter</td></tr>
+        <tr><td>Retenção em 12 meses</td><td>Quantos continuam um ano depois</td><td>Continuar</td></tr>
+        <tr><td>Cancelamentos e pagamentos recuperados</td><td>Quanto da recorrência se perde por falha, e quanto volta</td><td>Continuar</td></tr>
+        <tr><td>Receita de pessoas físicas, no mês e no ano</td><td>O resultado que importa, comparado à meta</td><td>Todas</td></tr>
+        <tr><td>Custo por doador conquistado, por canal</td><td>Onde vale colocar tempo e dinheiro</td><td>Todas</td></tr>
+        <tr><td>Aumentos de valor e entradas no Giving Circle</td><td>Se a escada de doadores está funcionando</td><td>Continuar</td></tr>
+      </tbody>
+    </table>
+  </div>
+</section>
+
+<section id="empresas">
+  <div class="wrap">
+    <h2>Empresas: onde as duas captações se encontram</h2>
+    <p class="sub">A vaga cuida primeiro de pessoas físicas, com participação crescente na captação com empresas. As duas frentes se ajudam.</p>
+    <div class="grid g3">
+      <div class="card"><h3>Doação de colaboradores</h3><p>O Baobá já tem uma página de doação dedicada a colaboradores de uma empresa parceira. O modelo pode ser replicado, de preferência com a empresa dobrando o que cada pessoa doa. <span class="src">[8]</span></p></div>
+      <div class="card"><h3>Quem já está perto</h3><p>As 49 empresas do MOVER participam com o Baobá do programa Presente e Futuro em Movimento. São candidatas naturais a campanhas com colaboradores e ações em 20 de novembro. <span class="src">[7]</span></p></div>
+      <div class="card"><h3>Histórico que abre portas</h3><p>Fundações e empresas como Kellogg, Ford, Open Society, Instituto Ibirapitanga, Citi Foundation, Instituto Unibanco e Coca-Cola Brasil já apoiaram programas do Baobá. Histórico é argumento para os próximos. <span class="src">[2] [5]</span></p></div>
+    </div>
+  </div>
+</section>
+
+<section id="ia" class="alt">
+  <div class="wrap">
+    <h2>Como a IA entra</h2>
+    <p class="sub">É o que chamo de cérebro: conhecimento organizado mais rotinas com IA, para a equipe gastar tempo com pessoas e decisões, não com planilha. Uso IA assim no meu trabalho atual, em que automatizei parte da conciliação bancária de cooperativas.</p>
+    <div class="grid g2">
+      <div class="card"><h3>Relatório mensal em minutos</h3><p>Consolidação dos dados de doações e campanhas no painel acima, com leitura do que mudou e por quê.</p></div>
+      <div class="card"><h3>Próximo passo por doador</h3><p>Sugestões a partir de recência, frequência e valor: quem agradecer, quem convidar a aumentar, quem precisa de reativação.</p></div>
+      <div class="card"><h3>Rascunhos no tom do Baobá</h3><p>Primeiras versões de e-mails, réguas e peças de campanha, sempre revisadas por pessoas da equipe e da Comunicação.</p></div>
+      <div class="card"><h3>Com governança</h3><p>Dados pessoais só com base legal na LGPD, em ferramentas aprovadas pela organização e, sempre que possível, anonimizados. A IA apoia; quem decide é a equipe.</p></div>
+    </div>
+  </div>
+</section>
+
+<section id="90-dias">
+  <div class="wrap">
+    <h2>Os primeiros 90 dias</h2>
+    <p class="sub">Escutar antes de propor. Arrumar a base antes de acelerar.</p>
+    <div class="grid g3 cols3">
+      <div class="card"><div class="when">Dias 1 a 30</div><h3>Escutar</h3>
+        <ul class="clean"><li>Conversas com a equipe e com 5 a 10 pessoas que doam</li><li>Leitura do CRM, das plataformas e do plano de mobilização</li><li>Linha de base dos indicadores</li><li>Mapa da jornada atual, do anúncio ao agradecimento</li></ul></div>
+      <div class="card"><div class="when">Dias 31 a 60</div><h3>Arrumar a base</h3>
+        <ul class="clean"><li>Régua de boas-vindas e de recuperação de pagamentos no ar</li><li>Painel mensal funcionando</li><li>Ad Grants ativo ou revisado</li><li>Primeiro teste na página de doação</li></ul></div>
+      <div class="card"><div class="when">Dias 61 a 90</div><h3>Primeira campanha</h3>
+        <ul class="clean"><li>Campanha da próxima data do calendário, com meta e indicadores</li><li>Primeiro convite estruturado para doação mensal</li><li>Relatório de resultados e próximos testes</li></ul></div>
+    </div>
+  </div>
+</section>
+
+<section id="perguntas" class="alt">
+  <div class="wrap">
+    <h2>Perguntas que eu levaria para a equipe</h2>
+    <p class="sub">As respostas mudam a ordem de tudo o que está acima.</p>
+    <p class="q">Quantas pessoas doam hoje, e quantas doam todo mês?</p>
+    <p class="q">A contrapartida da Fundação Kellogg ao fundo patrimonial segue valendo?</p>
+    <p class="q">Por que há duas plataformas de doação, e qual deve ser a principal?</p>
+    <p class="q">O Giving Circle segue ativo? Quantas pessoas participam?</p>
+    <p class="q">O Google Ad Grants está ativo? Qual é a meta de pessoas físicas no plano de mobilização?</p>
+    <p class="q">Que dados de doadores podem ser usados com IA, dentro da política de privacidade do Baobá?</p>
+  </div>
+</section>
+
+<section id="quem">
+  <div class="wrap about">
+    <div>
+      <h2>Quem fez</h2>
+      <p>Peterson Moreira, engenheiro de produção com pós-graduação em Marketing Digital. Participei da cocriação e captação do projeto Legado Social Suzano, proposta vencedora de R$ 3 milhões, e captei recursos como cofundador da AgriMart. No ICE, planejei o conteúdo e organizei os indicadores da Aliança pelo Impacto no LinkedIn. Na Alfa Sense, usei o Pipedrive para gerir contatos, funil e propostas. Hoje acompanho, em rotina semanal, 12 cooperativas da bioeconomia amazônica no Mecanismo Amazônia Viva, muitas delas de comunidades quilombolas.</p>
+      <p>A captação com pessoas físicas é a frente em que mais quero crescer. Este estudo é a forma que encontrei de mostrar como penso, antes de pedir uma chance.</p>
+    </div>
+    <div class="card">
+      <h3>Contato</h3>
+      <p style="margin:6px 0">m3participacoes@gmail.com</p>
+      <p style="margin:6px 0"><a href="https://www.linkedin.com/in/petersonmoreira/" target="_blank" rel="noopener">linkedin.com/in/petersonmoreira</a></p>
+      <p class="src" style="margin-top:14px">Estudo independente. Não representa o Fundo Baobá nem foi feito a pedido da organização.</p>
+    </div>
+  </div>
+</section>
+
+</main>
+
+<footer id="fontes">
+  <div class="wrap">
+    <h2 style="color:#f3c99c;font-size:24px">Fontes</h2>
+    <ol>
+      <li><a href="https://baoba.org.br/quem-somos/" target="_blank" rel="noopener">Fundo Baobá, Quem Somos</a></li>
+      <li><a href="https://baoba.org.br/nossa-historia/" target="_blank" rel="noopener">Fundo Baobá, Nossa História</a></li>
+      <li><a href="https://baoba.org.br/fundo-patrimonial/" target="_blank" rel="noopener">Fundo Baobá, Fundo Patrimonial</a></li>
+      <li><a href="https://baoba.org.br/doacao/" target="_blank" rel="noopener">Fundo Baobá, página de doação</a></li>
+      <li><a href="https://baoba.org.br/baoba-fund-creates-in-brazil-the-first-giving-circle-led-by-black-people/" target="_blank" rel="noopener">Fundo Baobá, lançamento do Giving Circle (2022)</a></li>
+      <li><a href="https://baoba.org.br/relatorios-de-atividades/" target="_blank" rel="noopener">Fundo Baobá, Relatórios de Atividades</a></li>
+      <li><a href="https://baoba.org.br/programa-presente-e-futuro-em-movimento/carreiras-em-movimento/" target="_blank" rel="noopener">Fundo Baobá e MOVER, edital Carreiras em Movimento</a></li>
+      <li><a href="https://baoba.colabore.org/" target="_blank" rel="noopener">Plataforma de doação Colabore do Fundo Baobá</a></li>
+      <li><a href="https://www.alliancemagazine.org/feature/philanthropy-yes-but-philanthropy-for-racial-equity/" target="_blank" rel="noopener">Alliance Magazine, Philanthropy, yes, but philanthropy for racial equity? (2020)</a></li>
+      <li><a href="https://www.idis.org.br/wp-content/uploads/2025/08/InfograficoDigital_PDB_2024.pdf" target="_blank" rel="noopener">IDIS, Pesquisa Doação Brasil 2024 (infográfico)</a></li>
+      <li><a href="https://www.google.com/grants/" target="_blank" rel="noopener">Google Ad Grants</a></li>
+    </ol>
+    <p style="margin-top:22px;opacity:.8">Informações consultadas em outubro de 2026. Estudo independente de Peterson Moreira, sem vínculo com o Fundo Baobá.</p>
+  </div>
+</footer>
+
+</body>
+</html>
