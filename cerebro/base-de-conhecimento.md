@@ -81,3 +81,45 @@ O que pode derrubar: os dados do CRM.
 - O Giving Circle segue ativo?
 - O Ad Grants está ativo? Qual a meta de pessoas físicas?
 - Que dados de doadores podem ser usados com IA, dentro da política de privacidade?
+
+## 9. Benchmarking de campanhas (consultado em 04/10/2026)
+
+### Calendário de 2026
+
+| Fato | Fonte |
+|---|---|
+| Eleições gerais: 1º turno em 4 de outubro de 2026; eventual 2º turno em 25 de outubro, para presidente e governador | [O Liberal, calendário aprovado pelo TSE](https://www.oliberal.com/politica/calendario-das-eleicoes-2026-e-aprovado-pelo-tse-veja-as-datas-dos-turnos-1.1091913) |
+| 20 de novembro é feriado nacional desde a Lei 14.759/2023, publicada em 22/12/2023. Antes, era feriado em seis estados e cerca de 1.200 cidades | [Agência Senado](https://www12.senado.leg.br/noticias/materias/2023/12/22/dia-da-consciencia-negra-se-torna-feriado-nacional) |
+| Dia de Doar acontece na primeira terça depois da Black Friday. Em 2026, 1º de dezembro | [Relatório Dia de Doar 2024](https://www.givingtuesday.org/wp-content/uploads/2025/08/Dia-De-Doar-Report-2024.pdf) |
+
+### Fundo Baobá
+
+| Fato | Fonte |
+|---|---|
+| Em 27/11/2024, publicou texto sobre o Dia de Doar com a chamada "Doe, mobilize e inspire", dados de desigualdade racial e link para a página de doação | [Dia de Doar, Baobá](https://baoba.org.br/dia-de-doar-fundo-baoba/) |
+| A página "Faça parte" convida à doação mensal: "Sua contribuição mensal garante que a transformação pela equidade racial não pare". Cita mais de R$ 22,4 milhões investidos e mais de 2.700 beneficiários diretos | [Faça parte](https://rede.baoba.org.br/faca-parte) |
+| Anunciou R$ 1,25 milhão para a Marcha das Mulheres Negras (25/11/2025), descrito como o maior apoio financeiro da sua história | [Retrospectiva 2024](https://baoba.org.br/retrospectiva-fundo-baoba-2024/) |
+
+### Outras organizações
+
+| Fato | Fonte |
+|---|---|
+| Fundo Brasil de Direitos Humanos participa do Dia de Doar desde 2013. Em 2017, fez desafios digitais diários com voluntários nas redes, como contraponto à Black Friday, e ofereceu pôsteres "Pessoas que inspiram" a quem passasse a doar todo mês | [Fundo Brasil, 2017](https://fundobrasil.org.br/noticia/fundo-brasil-promove-desafios-digitais-para-o-diadedoar) |
+| Fundo Brasil, 2025: campanha "Direitos Humanos são o que nos une", com posts, fotos e vídeos. Mensagem de união apesar das diferenças | [Fundo Brasil, 2025](https://fundobrasil.org.br/noticia/campanha-do-fundo-brasil-convida-a-sociedade-a-refletir-sobre-como-os-direitos-humanos-nos-une) |
+| No 20 de novembro de 2023, o ID_BR comunicou que o Brasil levaria 167 anos para chegar à igualdade racial no mercado de trabalho. Padrão do dia: dados concretos de desigualdade | [Nosso Meio, 2023](https://nossomeio.com.br/o-que-marcas-estao-comunicando-no-dia-da-consciencia-negra/) |
+| Instituto Marielle Franco pede doação como "organização independente" e mostra alcance: mais de 180 mil pessoas em alguma ação | [Instituto Marielle Franco](https://www.institutomariellefranco.org/futuro) |
+| Dia de Doar 2024: 80 campanhas comunitárias, 62 empresas, R$ 5,04 milhões registrados por 16 plataformas parceiras, 868 matérias na imprensa, 63 monumentos iluminados. Uma campanha local criou comitê de transparência e mandou relatório aos apoiadores depois da data | [Relatório Dia de Doar 2024](https://www.givingtuesday.org/wp-content/uploads/2025/08/Dia-De-Doar-Report-2024.pdf) |
+
+### Eleição e doação
+
+| Fato | Fonte |
+|---|---|
+| Nos EUA, as doações a causas cresceram em 9 dos últimos 10 anos de eleição presidencial (a exceção foi 2008, ano da crise financeira). Não há sinal de que a doação política tire espaço da doação a causas | [CCS Fundraising](https://ccsfundraising.com/presidential-elections-and-charitable-giving-what-does-the-data-tell-us) |
+| Mesma fonte: depois da eleição, organizações associadas à ideologia oposta à do vencedor receberam em média 57,55% mais doações ("rage giving"). Recomendação: manter a captação, falar com empatia e reafirmar a missão | [CCS Fundraising](https://ccsfundraising.com/presidential-elections-and-charitable-giving-what-does-the-data-tell-us) |
+| A Lei 9.504/1997 proíbe entidades sem fins lucrativos que recebam recursos do exterior de doar a campanhas, inclusive bens e serviços estimáveis em dinheiro | [MPSC](https://mpsc.mp.br/noticias/ongs-ou-entidades-que-recebam-recursos-publicos-ou-estrangeiros-nao-podem-fazer-doacoes-a-candidatos) |
+
+### Leituras (hipóteses, não fatos)
+
+- A janela de novembro começa logo depois da eleição. O 2º turno, se houver, termina 26 dias antes do 20 de novembro. Uma mensagem de união em torno da equidade racial, sem lado partidário, tende a ser mais segura e mais ampla.
+- O dado dos EUA sobre "rage giving" é de outro país e de outro sistema. Serve de pergunta, não de base para meta.
+- Os benchmarks repetem três movimentos: dado concreto de desigualdade, história de quem foi apoiado e pedido claro, de preferência mensal. O Dia de Doar acrescenta a prestação de contas depois da data.
