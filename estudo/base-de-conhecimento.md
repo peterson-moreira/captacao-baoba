@@ -132,3 +132,15 @@ O que pode derrubar: os dados do CRM.
 | Sankofa é um adinkra do povo ashanti, da África Ocidental, representado por um pássaro que olha para trás. Significa algo como "volte e pegue", o valor de aprender com o passado. É o adinkra mais difundido no Brasil | [Espaço do Conhecimento UFMG](https://www.ufmg.br/espacodoconhecimento/tecnologia-ancestral-africana-simbolos-adinkra) |
 
 Por que o nome: o estudo parte da história do Baobá e de campanhas anteriores para propor o que vem. Não encontramos o termo em programas do Baobá (busca em baoba.org.br, 04/10/2026).
+
+## 11. Campanha 20 de novembro e Dia de Doar (consultado em 04/10/2026)
+
+| Fato | Fonte |
+|---|---|
+| A página "Faça parte" do Baobá tem como chamada "Transforme consciência em ação" | [Faça parte](https://rede.baoba.org.br/faca-parte) |
+| Aquilombamento: noção de modo de existência coletiva, a partir da formação dos quilombos no contexto afro-brasileiro, com função social, política e comunitária que segue viva, inclusive nos terreiros de matriz africana | [Azevedo e Jagun, Revista Ecos (UFF), v. 13, n. 2](https://periodicoshumanas.uff.br/ecos/article/download/3211/1793) |
+| Dias da semana em 2026 (calendário): 25/10 domingo, 20/11 sexta, 27/11 sexta (Black Friday, dia seguinte ao Dia de Ação de Graças em 26/11), 1º/12 terça (Dia de Doar) | Calendário de 2026 e regra do Dia de Doar no [Relatório Dia de Doar 2024](https://www.givingtuesday.org/wp-content/uploads/2025/08/Dia-De-Doar-Report-2024.pdf) |
+
+Leituras (hipóteses):
+- 20/11 cai numa sexta, com fim de semana prolongado. A atenção à causa é alta, mas parte do público estará fora da rotina. Hipótese: concentrar conteúdo na semana anterior e no próprio dia, e o pedido mais forte de doação no Dia de Doar.
+- "Aquilombar" tem ligação com terreiros de matriz africana. Se for usado como mote, validar com a equipe.
