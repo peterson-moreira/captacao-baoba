@@ -1,0 +1,4 @@
+# Configuração do GitHub Pages
+# CLAUDE.md fica no repositório, mas não é publicado no site.
+exclude:
+  - CLAUDE.md
