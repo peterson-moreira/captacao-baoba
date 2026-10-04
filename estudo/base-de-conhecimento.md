@@ -78,6 +78,7 @@ O que pode derrubar: os dados do CRM.
 - Quantas pessoas doam hoje, e quantas todo mês?
 - A contrapartida da Kellogg segue valendo?
 - Por que duas plataformas, e qual deve ser a principal?
+- A plataforma de doação permite saber de onde veio cada doação (links com UTM, rastreio na página de doação)?
 - O Giving Circle segue ativo?
 - O Ad Grants está ativo? Qual a meta de pessoas físicas?
 - Que dados de doadores podem ser usados com IA, dentro da política de privacidade?
