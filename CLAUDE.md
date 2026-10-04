@@ -1,4 +1,4 @@
-# Cérebro de Captação · Fundo Baobá
+# Sankofa · notas sobre captação com pessoas físicas no Fundo Baobá
 
 Estudo independente de Peterson Moreira sobre como começar a trabalhar a mobilização de recursos com pessoas físicas no Fundo Baobá. Publicado em https://peterson-moreira.github.io/captacao-baoba/ via GitHub Pages (branch `main`, pasta raiz).
 
@@ -10,7 +10,7 @@ Equipe do Fundo Baobá e da Uzoma Diversidade, no processo seletivo para Analist
 
 ## Regras de conteúdo
 
-- Não inventar nada. Todo número precisa de fonte pública registrada em `cerebro/base-de-conhecimento.md` e na lista de Fontes da página.
+- Não inventar nada. Todo número precisa de fonte pública registrada em `estudo/base-de-conhecimento.md` e na lista de Fontes da página.
 - Na página, não usar marcadores de fonte no texto, como [1]. As fontes ficam só na lista do rodapé.
 - Nunca usar travessão (o caractere longo). Usar dois pontos, vírgula ou ponto.
 - Tom de hipótese: "o que eu testaria", nunca "o que o Baobá está fazendo errado".
@@ -23,16 +23,16 @@ Equipe do Fundo Baobá e da Uzoma Diversidade, no processo seletivo para Analist
 ## Estrutura
 
 - `index.html`: a página publicada. CSS embutido, sem dependências externas.
-- `cerebro/base-de-conhecimento.md`: fatos, fontes, leituras e hipóteses. É a fonte da verdade do conteúdo.
+- `estudo/base-de-conhecimento.md`: fatos, fontes, leituras e hipóteses. É a fonte da verdade do conteúdo.
 - `privado/` (fora do git): contexto da candidatura, pontos sensíveis e backlog.
 - Páginas novas seguem o mesmo estilo do `index.html` e entram no menu do topo.
 
 ## Fluxo de trabalho
 
-1. Atualizar primeiro `cerebro/base-de-conhecimento.md` quando entrar fato novo, com fonte.
+1. Atualizar primeiro `estudo/base-de-conhecimento.md` quando entrar fato novo, com fonte.
 2. Editar o HTML.
 3. Conferir antes do commit:
-   - nenhum travessão (caractere Unicode U+2014) nem meia-risca (U+2013) em `*.html` e `cerebro/*.md`
+   - nenhum travessão (caractere Unicode U+2014) nem meia-risca (U+2013) em `*.html` e `estudo/*.md`
    - nenhum marcador de fonte no corpo: `grep -n "\[[0-9]*\]" *.html`
    - links internos do menu apontam para ids existentes
    - abrir o arquivo no navegador e olhar em largura de celular

@@ -123,3 +123,11 @@ O que pode derrubar: os dados do CRM.
 - A janela de novembro começa logo depois da eleição. O 2º turno, se houver, termina 26 dias antes do 20 de novembro. Uma mensagem de união em torno da equidade racial, sem lado partidário, tende a ser mais segura e mais ampla.
 - O dado dos EUA sobre "rage giving" é de outro país e de outro sistema. Serve de pergunta, não de base para meta.
 - Os benchmarks repetem três movimentos: dado concreto de desigualdade, história de quem foi apoiado e pedido claro, de preferência mensal. O Dia de Doar acrescenta a prestação de contas depois da data.
+
+## 10. Nome do estudo
+
+| Fato | Fonte |
+|---|---|
+| Sankofa é um adinkra do povo ashanti, da África Ocidental, representado por um pássaro que olha para trás. Significa algo como "volte e pegue", o valor de aprender com o passado. É o adinkra mais difundido no Brasil | [Espaço do Conhecimento UFMG](https://www.ufmg.br/espacodoconhecimento/tecnologia-ancestral-africana-simbolos-adinkra) |
+
+Por que o nome: o estudo parte da história do Baobá e de campanhas anteriores para propor o que vem. Não encontramos o termo em programas do Baobá (busca em baoba.org.br, 04/10/2026).
