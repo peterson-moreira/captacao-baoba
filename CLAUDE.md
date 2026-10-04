@@ -14,7 +14,7 @@ Equipe do Fundo Baobá e da Uzoma Diversidade, no processo seletivo para Analist
 - Na página, não usar marcadores de fonte no texto, como [1]. As fontes ficam só na lista do rodapé.
 - Nunca usar travessão (o caractere longo). Usar dois pontos, vírgula ou ponto.
 - Tom de hipótese: "o que eu testaria", nunca "o que o Baobá está fazendo errado".
-- Não usar logo, cores ou identidade visual do Fundo Baobá. Deixar claro que é estudo independente.
+- Não usar logo, tipografia nem as cores exatas do Fundo Baobá. A paleta conversa com a deles (cacau, terracota, ocre, creme, verde) em tons próprios, definidos em `:root` no `index.html`. Deixar claro que é estudo independente.
 - Manter `<meta name="robots" content="noindex, nofollow">`: a página é acessível por link, mas fora das buscas.
 - Não expor problemas sensíveis do Baobá em público. Observações delicadas ficam em `privado/`.
 - Dados pessoais de doadores nunca entram aqui. Demonstrações usam dados fictícios, sempre rotulados como fictícios.
