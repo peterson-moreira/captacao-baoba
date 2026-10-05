@@ -45,6 +45,14 @@
   .tl.key a{color:#ffe6c2;font-weight:600}
   .formula{margin-top:20px;background:#fff3e3;border:1px dashed #e0b77d;border-radius:12px;padding:16px 20px;font-size:15.5px}
   .formula p{margin:0}
+  .minute{margin:4px 0 22px;max-width:760px;background:rgba(255,248,236,.08);border:1px solid rgba(255,255,255,.2);border-radius:14px;padding:16px 20px}
+  .minute-title{margin:0 0 8px;font-size:12.5px;text-transform:uppercase;letter-spacing:.14em;font-weight:700;color:var(--ochre)}
+  .minute ol{margin:0;padding-left:20px}
+  .minute li{margin:6px 0;font-size:16.5px;line-height:1.5}
+  .minute li strong{color:#fff}
+  .kpi-main{display:inline-block;font-size:11px;text-transform:uppercase;letter-spacing:.06em;background:var(--ochre);color:var(--cocoa);padding:1px 8px;border-radius:999px;margin-left:6px;vertical-align:middle;font-weight:700}
+  tbody tr.main td{background:#fff6e6}
+  tbody tr.main td:first-child{font-weight:700;color:var(--cocoa)}
   .notice{background:rgba(255,248,236,.96);border-radius:12px;padding:14px 18px;margin:30px 0 0;color:var(--cocoa-2);font-size:15px;max-width:820px;box-shadow:0 10px 30px rgba(0,0,0,.18)}
 
   /* Menu */
@@ -171,6 +179,7 @@
     td,tbody tr:nth-child(even) td{border:none;padding:0;background:none}
     td:first-child{font-weight:700;color:var(--cocoa)}
     td:nth-child(2){color:var(--muted);font-size:15px;margin-top:2px}
+    tr.main{background:#fff6e6;border-color:#f0d2a0}
     tbody tr td:last-child{display:inline-block;width:auto;margin-top:8px;font-size:12px;text-transform:uppercase;letter-spacing:.06em;color:#fff;background:var(--terra);padding:2px 10px;border-radius:999px}
   }
   @media (max-width:420px){
@@ -193,7 +202,14 @@
     <p class="subtitle">Hipóteses para o Fundo Baobá</p>
     <p class="signature"><strong>Sankofa</strong> · Peterson Moreira · outubro de 2026</p>
     <p class="symbol">Sankofa é um símbolo adinkra do povo ashanti, da África Ocidental: um pássaro que olha para trás. Significa algo como "volte e pegue", o valor de aprender com o passado. É o espírito deste estudo: partir do que o Baobá já construiu para pensar o que vem.</p>
-    <p class="lead">O que os dados públicos mostram, cinco hipóteses, a jornada de quem doa, o calendário, os indicadores e uma proposta para os primeiros 90 dias. Tudo para ser conversado com a equipe.</p>
+    <div class="minute">
+      <p class="minute-title">Em 1 minuto</p>
+      <ol>
+        <li><strong>Medir a jornada antes de mudar.</strong> Há duas portas de doação; o primeiro passo é medir do clique à doação, com um só número de impacto.</li>
+        <li><strong>Recorrência como foco, testando o valor sugerido.</strong> O formulário já abre em doação mensal; falta testar quanto pedir, por exemplo R$ 20 contra R$ 40.</li>
+        <li><strong>20 de novembro e Dia de Doar como primeira prova,</strong> com um plano semana a semana.</li>
+      </ol>
+    </div>
     <p class="cta-wrap"><a class="cta" href="campanha-20-novembro.html">Ver o plano para 20 de novembro e Dia de Doar <span aria-hidden="true">→</span></a></p>
     <div class="notice"><strong>Antes de ler:</strong> este não é um material do Fundo Baobá. São hipóteses de quem olha de fora, para serem testadas com a equipe, com os dados do CRM e, principalmente, com quem já doa. Todos os números têm fonte pública, listada no fim da página.</div>
   </div>
@@ -202,17 +218,11 @@
 <nav class="toc" aria-label="Seções">
   <div class="wrap">
     <ul>
-      <li><a href="#ponto-de-partida">Ponto de partida</a></li>
       <li><a href="#leitura">Leitura de fora</a></li>
       <li><a href="#hipoteses">Hipóteses</a></li>
-      <li><a href="#jornada">Jornada do doador</a></li>
-      <li><a href="#calendario">Calendário</a></li>
+      <li><a href="#jornada">Jornada</a></li>
       <li><a href="#indicadores">Indicadores</a></li>
-      <li><a href="#empresas">Empresas</a></li>
-      <li><a href="#ia">Como a IA entra</a></li>
       <li><a href="#90-dias">90 dias</a></li>
-      <li><a href="#perguntas">Perguntas</a></li>
-      <li><a href="#fontes">Fontes</a></li>
       <li><a href="campanha-20-novembro.html"><strong>Campanha 20/11 →</strong></a></li>
     </ul>
   </div>
@@ -254,11 +264,11 @@
     <div class="grid g2">
       <div class="card obs"><div class="ic">1</div><div>
         <h3>A base para recorrência já existe</h3>
-        <p>O formulário oferece doação mensal ou única, valores sugeridos de R$ 20 a R$ 120, Pix, cartão e boleto, e um aceite de comunicações que já prevê pedidos de aumento e de reativação. A estrutura das réguas está pronta para ser usada.</p>
+        <p>O formulário da Colabore já abre em doação mensal, com R$ 20 marcado e opções até R$ 120, Pix, cartão e boleto. O consentimento para pedidos de aumento e de reativação já está previsto no formulário.</p>
       </div></div>
       <div class="card obs"><div class="ic">2</div><div>
         <h3>O mercado cresceu</h3>
-        <p>As doações de pessoas físicas somaram R$ 24,3 bilhões em 2024, o maior volume da série, e a mediana anual por doador foi de R$ 480. Isso cabe numa doação mensal de R$ 40. Mas a frequência caiu: entre quem doa a instituições, os que doam todo mês passaram de 44% em 2022 para 39% em 2024, e os que doam a cada seis meses subiram de 9% para 12%.</p>
+        <p>As doações de pessoas físicas somaram R$ 24,3 bilhões em 2024, o maior volume da série, e a mediana anual por doador foi de R$ 480, somando tudo o que a pessoa doou no ano. Mas a frequência caiu: entre quem doa a instituições, os que doam todo mês passaram de 44% em 2022 para 39% em 2024, e os que doam a cada seis meses subiram de 9% para 12%.</p>
       </div></div>
       <div class="card obs"><div class="ic">3</div><div>
         <h3>Norte e Nordeste na frente</h3>
@@ -291,7 +301,7 @@
       </div>
       <div class="card hyp"><span class="n">2</span>
         <h3>Recorrência como hipótese de crescimento</h3>
-        <p>Testar a doação mensal como opção principal, com R$ 40 em destaque, perto da mediana anual do país. Com as doações mensais em queda no mercado, uma estratégia deliberada para conquistar e manter doadores mensais pode ser um diferencial. E o patrimônio do Baobá é formado justamente por doações contínuas, de empresas, organizações e pessoas físicas.</p>
+        <p>O formulário já abre em mensal, com R$ 20 marcado. O teste que falta é o do valor sugerido: R$ 20 contra R$ 40, por exemplo. R$ 40 por mês já seria a mediana anual de um doador no país (R$ 480), concentrada numa só organização: uma âncora alta para a primeira doação. Com as doações mensais em queda no mercado, conquistar e manter doadores mensais pode ser um diferencial. E o patrimônio do Baobá é formado justamente por doações contínuas, de empresas, organizações e pessoas físicas.</p>
       </div>
       <div class="card hyp"><span class="n">3</span>
         <h3>A doação que permanece</h3>
@@ -388,7 +398,7 @@
 <section id="indicadores" class="alt">
   <div class="wrap">
     <h2>Um painel possível</h2>
-    <p class="sub">Poucos indicadores, em duas velocidades. Os de canal, como site, redes e anúncios, ficam num painel atualizado quase em tempo real, útil sobretudo em dias de campanha. As metas e as decisões são revistas todo mês com a equipe, depois de ver a linha de base.</p>
+    <p class="sub">Quatro indicadores principais, em destaque na tabela, e os demais como apoio. Em duas velocidades: os de canal, como site, redes e anúncios, ficam num painel atualizado quase em tempo real, útil sobretudo em dias de campanha; as metas e as decisões são revistas todo mês com a equipe, depois de ver a linha de base.</p>
     <table>
       <thead><tr><th>Indicador</th><th>O que mostra</th><th>Etapa</th></tr></thead>
       <tbody>
@@ -396,12 +406,12 @@
         <tr><td>Ad Grants: cliques, conversões e uso do crédito</td><td>Se o recurso gratuito do Google está virando doação</td><td>Conectar</td></tr>
         <tr><td>Inscrições no boletim e abertura de e-mails</td><td>Se o conteúdo está construindo confiança</td><td>Convencer</td></tr>
         <tr><td>Taxa de conversão da página</td><td>Quantas visitas viram doação</td><td>Converter</td></tr>
-        <tr><td>Novos doadores e % de doações mensais</td><td>Ritmo de entrada e qualidade da base</td><td>Converter</td></tr>
+        <tr class="main"><td>Novos doadores e % de doações mensais <span class="kpi-main">principal</span></td><td>Ritmo de entrada e qualidade da base</td><td>Converter</td></tr>
         <tr><td>Valor médio, mensal e único</td><td>Efeito dos valores sugeridos e dos pedidos de aumento</td><td>Converter</td></tr>
-        <tr><td>Retenção em 12 meses</td><td>Quantos continuam um ano depois</td><td>Continuar</td></tr>
+        <tr class="main"><td>Retenção em 12 meses <span class="kpi-main">principal</span></td><td>Quantos continuam um ano depois</td><td>Continuar</td></tr>
         <tr><td>Cancelamentos e pagamentos recuperados</td><td>Quanto da recorrência se perde por falha, e quanto volta</td><td>Continuar</td></tr>
-        <tr><td>Receita de pessoas físicas, no mês e no ano</td><td>Onde o trabalho de todas as etapas aparece, comparado à meta</td><td>Todas</td></tr>
-        <tr><td>Custo por doador conquistado, por canal</td><td>Onde vale colocar tempo e dinheiro</td><td>Todas</td></tr>
+        <tr class="main"><td>Receita de pessoas físicas, no mês e no ano <span class="kpi-main">principal</span></td><td>Onde o trabalho de todas as etapas aparece, comparado à meta</td><td>Todas</td></tr>
+        <tr class="main"><td>Custo por doador conquistado, por canal <span class="kpi-main">principal</span></td><td>Onde vale colocar tempo e dinheiro</td><td>Todas</td></tr>
         <tr><td>Aumentos de valor e entradas no Giving Circle</td><td>Se a escada de doadores está funcionando</td><td>Continuar</td></tr>
       </tbody>
     </table>
@@ -466,7 +476,7 @@
   <div class="wrap about">
     <div>
       <h2>Quem fez</h2>
-      <p>Peterson Moreira, engenheiro de produção com pós-graduação em Marketing Digital. Participei da cocriação e captação do projeto Legado Social Suzano, proposta vencedora de R$ 3 milhões, e captei recursos como cofundador da AgriMart. No ICE, planejei o conteúdo e organizei os indicadores da Aliança pelo Impacto no LinkedIn. Na Alfa Sense, usei o Pipedrive para gerir contatos, funil e propostas. Hoje acompanho, em rotina semanal, 12 cooperativas da bioeconomia amazônica no Mecanismo Amazônia Viva, muitas delas de comunidades quilombolas.</p>
+      <p>Peterson Moreira, engenheiro de produção com pós-graduação em Marketing Digital. Participei da cocriação e captação do projeto Legado Social Suzano, proposta vencedora de R$ 3 milhões, e captei recursos como cofundador da AgriMart. No ICE, planejei o conteúdo e organizei os indicadores da Aliança pelo Impacto no LinkedIn. Na Alfa Sense, usei o Pipedrive para gerir contatos, funil e propostas. Hoje acompanho, em rotina semanal, 12 cooperativas e associações da bioeconomia amazônica no Mecanismo Amazônia Viva, muitas formadas por povos tradicionais e comunidades quilombolas.</p>
       <p>Minha trajetória me trouxe para o encontro entre impacto social, relacionamento, dados e captação. Agora quero aprofundar esse caminho na construção de relações duradouras com pessoas físicas, a frente em que mais quero crescer. Este estudo é a forma que encontrei de mostrar como penso, antes de pedir uma chance.</p>
     </div>
     <div class="card contact">

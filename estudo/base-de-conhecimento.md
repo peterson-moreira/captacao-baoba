@@ -29,6 +29,7 @@ Fonte da verdade do conteúdo do estudo. Todo fato tem fonte. Consultado em outu
 - Duas portas: a página `/doacao` leva à plataforma Doare; os botões das páginas institucionais levam à Colabore (Trackmob). [Doação](https://baoba.org.br/doacao/), [Colabore](https://baoba.colabore.org/)
 - A página raiz da Colabore está personalizada para doação de colaboradores de uma empresa parceira.
 - Formulário Colabore: mensal ou única; valores sugeridos de R$ 20, 40, 80 e 120; mínimo de R$ 10; Pix, cartão e boleto; aceite de comunicações que prevê pedidos de aumento e de reativação.
+- Conferido no navegador em 05/10/2026: a raiz baoba.colabore.org redireciona para a página da parceria com a Salesforce (BOLDforce), e o formulário abre com "Mensal" selecionado e R$ 20 marcado. O formulário traz o consentimento para pedidos de aumento e reativação; isso não é uma régua pronta.
 - Números de impacto divergentes: site fala em mais de 1.200 iniciativas; agradecimento da Colabore, em mais de 900 projetos e mais de R$ 16 milhões.
 
 ## 3. Contexto do mercado (IDIS, Pesquisa Doação Brasil 2024)
@@ -57,7 +58,7 @@ Outros dados do [relatório completo da Pesquisa Doação Brasil 2024](https://w
 ## 5. Hipóteses (para testar, não conclusões)
 
 1. Uma jornada que dá para medir: entender por que há duas plataformas; em qualquer porta, medir do clique à doação e usar o mesmo número de impacto. Unificar, integrar ou manter vem depois do diagnóstico.
-2. Recorrência como hipótese de crescimento: mensal em destaque, R$ 40 perto da mediana anual. Com as doações mensais em queda no mercado (44% para 39% dos doadores institucionais), conquistar e manter doadores mensais pode ser diferencial.
+2. Recorrência como hipótese de crescimento: o formulário já abre em mensal com R$ 20; testar o valor sugerido (R$ 20 contra R$ 40). R$ 40 por mês equivale à mediana anual de um doador (R$ 480) concentrada numa só organização: âncora alta para a primeira doação. Com as doações mensais em queda no mercado (44% para 39% dos doadores institucionais), conquistar e manter doadores mensais pode ser diferencial.
 3. A doação que permanece: fundo patrimonial como vantagem; mostrar a contrapartida, se ainda existir.
 4. Prestação de contas como campanha: relatório anual, carta ao doador, histórias de apoiados. Transparência como ferramenta de relacionamento.
 5. Escada de doadores: do mensal ao Giving Circle, com critérios claros.
@@ -133,6 +134,7 @@ O que pode derrubar: os dados do CRM.
 ### Leituras (hipóteses, não fatos)
 
 - A janela de novembro começa logo depois da eleição. O 2º turno, confirmado para 25/10, termina 26 dias antes do 20 de novembro. A preparação acontece nos bastidores até lá; a campanha vai para as redes a partir de 26/10.
+- O ritmo da comunicação até o 2º turno é pergunta para a equipe, não regra: um fundo "de justiça social" pode ter política própria para o período eleitoral (revisão de 05/10/2026).
 - Separar a causa da disputa partidária, sem suavizar a causa. O próprio Baobá se define pelo enfrentamento ao racismo e pela reparação racial; "equidade racial é causa de todos" soaria como diluir essa identidade (revisão de 05/10/2026).
 - O dado dos EUA sobre "rage giving" é de outro país e de outro sistema. Serve de pergunta, não de base para meta.
 - Os benchmarks repetem três movimentos: dado concreto de desigualdade, história de quem foi apoiado e pedido claro, de preferência mensal. O Dia de Doar acrescenta a prestação de contas depois da data.
