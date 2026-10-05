@@ -15,6 +15,7 @@ Fonte da verdade do conteúdo do estudo. Todo fato tem fonte. Consultado em outu
 | Quatro áreas de investimento: viver com dignidade, educação, desenvolvimento econômico, comunicação e memória | [Quem Somos](https://baoba.org.br/quem-somos/) |
 | Missão: promover a equidade racial no Brasil. Valores: ética, transparência, gestão e justiça social | [Fundo Patrimonial](https://baoba.org.br/fundo-patrimonial/) |
 | Fundo patrimonial: o principal não é gasto; parte dos rendimentos financia programas e custos | [Fundo Patrimonial](https://baoba.org.br/fundo-patrimonial/) |
+| "O patrimônio do Fundo é formado por doações contínuas de empresas, organizações não-governamentais e pessoas físicas" | [Fundo Patrimonial](https://baoba.org.br/fundo-patrimonial/) |
 | Em 2020, a direção descrevia contrapartida da Fundação Kellogg ao fundo patrimonial: R$ 3 para cada R$ 1 captado no Brasil e R$ 2 para cada R$ 1 captado no exterior. Confirmar se ainda vale | [Alliance Magazine, 2020](https://www.alliancemagazine.org/feature/philanthropy-yes-but-philanthropy-for-racial-equity/) |
 | Giving Circle lançado em 30/11/2021, liderado por pessoas negras, para doações individuais de R$ 5 mil a R$ 50 mil, com selo Filantropia por Equidade Racial | [Giving Circle](https://baoba.org.br/baoba-fund-creates-in-brazil-the-first-giving-circle-led-by-black-people/) |
 | De 2014 a 2021, cerca de R$ 15 milhões investidos em 833 iniciativas negras | [Giving Circle](https://baoba.org.br/baoba-fund-creates-in-brazil-the-first-giving-circle-led-by-black-people/) |
@@ -36,9 +37,16 @@ Fonte: [infográfico](https://www.idis.org.br/wp-content/uploads/2025/08/Infogra
 - 78% dos brasileiros fizeram alguma doação em 2024; 43% fizeram doação institucional de dinheiro.
 - Volume de doações individuais: R$ 24,3 bilhões, o maior da série.
 - Mediana anual por doador: R$ 480 (era R$ 300 em 2022).
-- Doadores institucionais por região: Nordeste 49%, a maior proporção.
-- Causas mais buscadas: crianças 32%, combate à fome 30%, saúde 26%.
-- Confiança: 30% acham a maioria das ONGs confiável; 33% acham que deixam claro o que fazem com o dinheiro; 49% já deixaram de doar por notícias negativas; falta de confiança como motivo para não doar subiu de 7% para 24%.
+- Doadores institucionais por região: Norte 49%, Nordeste 44%, Sul 43%, Centro-Oeste 41%, Sudeste 41%. O IDIS observa que Norte, Sul e Centro-Oeste, onde a proporção mais cresceu desde 2022, enfrentaram desastres climáticos em 2024.
+- Causas mais procuradas pelos doadores institucionais: crianças 32%, situações emergenciais 30%, saúde 26%, combate à fome 21%, causa animal 10%, população de rua 10%.
+- Correção em 05/10/2026: a versão anterior atribuía os 49% ao Nordeste (são do Norte) e punha combate à fome com 30% (o certo é situações emergenciais 30% e fome 21%). Erro de leitura do infográfico, apontado em revisão externa e conferido no PDF.
+- Confiança: 30% acham a maioria das ONGs confiável; 33% acham que deixam claro o que fazem com o dinheiro; 49% já deixaram de doar por notícias negativas; no infográfico, a falta de confiança como motivo para não doar, entre não doadores, subiu de 7% para 24%.
+
+Outros dados da mesma pesquisa, em [artigo de Fernando Nogueira (ABCR) e Vivian Fasca no site do IDIS, 07/08/2025](https://www.idis.org.br/cultura-de-doacao-recorrencia-e-confianca-o-que-revelam-os-dados-da-pesquisa-doacao-brasil-2024/):
+
+- Entre não doadores, a falta de confiança e transparência é o principal motivo para não doar: 38% em 2024, contra 12% em 2020. É um recorte diferente do 7% para 24% do infográfico; na página usamos o 38%.
+- Pessoas dispostas a doar mensalmente para a mesma organização: 44% em 2022, 39% em 2024.
+- Doar para as mesmas organizações ano após ano: 49% em 2024, contra 55% em 2020 e 69% em 2015.
 
 ## 4. Ferramentas
 
@@ -46,8 +54,8 @@ Fonte: [infográfico](https://www.idis.org.br/wp-content/uploads/2025/08/Infogra
 
 ## 5. Hipóteses (para testar, não conclusões)
 
-1. Uma porta só: jornada unificada, mesmo número de impacto em todos os pontos, conversão medida do clique à doação.
-2. Recorrência como padrão: mensal em destaque, R$ 40 perto da mediana anual.
+1. Uma jornada que dá para medir: entender por que há duas plataformas; em qualquer porta, medir do clique à doação e usar o mesmo número de impacto. Unificar, integrar ou manter vem depois do diagnóstico.
+2. Recorrência como padrão, para testar: mensal em destaque, R$ 40 perto da mediana anual. Com a fidelidade em queda no mercado (44% para 39%), conquistar e manter doadores mensais pode ser diferencial.
 3. A doação que permanece: fundo patrimonial como vantagem; mostrar a contrapartida, se ainda existir.
 4. Prestação de contas como campanha: relatório atualizado, carta ao doador, histórias de apoiados.
 5. Escada de doadores: do mensal ao Giving Circle, com critérios claros.
