@@ -14,6 +14,8 @@ Fonte da verdade do conteúdo do estudo. Todo fato tem fonte. Consultado em outu
 | Três dimensões de atuação: articulação social (inclui filantropia negra e cultura de doação), mobilização de recursos e investimento programático | [Quem Somos](https://baoba.org.br/quem-somos/) |
 | Quatro áreas de investimento: viver com dignidade, educação, desenvolvimento econômico, comunicação e memória | [Quem Somos](https://baoba.org.br/quem-somos/) |
 | Missão: promover a equidade racial no Brasil. Valores: ética, transparência, gestão e justiça social | [Fundo Patrimonial](https://baoba.org.br/fundo-patrimonial/) |
+| Propósito: "Contribuir para o enfrentamento ao racismo promovendo justiça e equidade racial para a população negra". Visão: "Ser referência de enfrentamento ao racismo no Brasil como um fundo de justiça social" | [Fundo Patrimonial](https://baoba.org.br/fundo-patrimonial/) |
+| Na página de doação: "Somos um instrumento coletivo de transformação e reparação racial" | [Faça parte](https://rede.baoba.org.br/faca-parte) |
 | Fundo patrimonial: o principal não é gasto; parte dos rendimentos financia programas e custos | [Fundo Patrimonial](https://baoba.org.br/fundo-patrimonial/) |
 | "O patrimônio do Fundo é formado por doações contínuas de empresas, organizações não-governamentais e pessoas físicas" | [Fundo Patrimonial](https://baoba.org.br/fundo-patrimonial/) |
 | Em 2020, a direção descrevia contrapartida da Fundação Kellogg ao fundo patrimonial: R$ 3 para cada R$ 1 captado no Brasil e R$ 2 para cada R$ 1 captado no exterior. Confirmar se ainda vale | [Alliance Magazine, 2020](https://www.alliancemagazine.org/feature/philanthropy-yes-but-philanthropy-for-racial-equity/) |
@@ -129,7 +131,8 @@ O que pode derrubar: os dados do CRM.
 
 ### Leituras (hipóteses, não fatos)
 
-- A janela de novembro começa logo depois da eleição. O 2º turno, se houver, termina 26 dias antes do 20 de novembro. Uma mensagem de união em torno da equidade racial, sem lado partidário, tende a ser mais segura e mais ampla.
+- A janela de novembro começa logo depois da eleição. O 2º turno, se houver, termina 26 dias antes do 20 de novembro. Planejar por cenários: a preparação começa já; a comunicação se ajusta se houver 2º turno.
+- Separar a causa da disputa partidária, sem suavizar a causa. O próprio Baobá se define pelo enfrentamento ao racismo e pela reparação racial; "equidade racial é causa de todos" soaria como diluir essa identidade (revisão de 05/10/2026).
 - O dado dos EUA sobre "rage giving" é de outro país e de outro sistema. Serve de pergunta, não de base para meta.
 - Os benchmarks repetem três movimentos: dado concreto de desigualdade, história de quem foi apoiado e pedido claro, de preferência mensal. O Dia de Doar acrescenta a prestação de contas depois da data.
 
@@ -151,7 +154,7 @@ Por que o nome: o estudo parte da história do Baobá e de campanhas anteriores 
 
 Leituras (hipóteses):
 - 20/11 cai numa sexta, com fim de semana prolongado. A atenção à causa é alta, mas parte do público estará fora da rotina. Hipótese: concentrar conteúdo na semana anterior e no próprio dia, e o pedido mais forte de doação no Dia de Doar.
-- "Aquilombar" tem ligação com terreiros de matriz africana. Se for usado como mote, validar com a equipe.
+- "Aquilombar" tem ligação com terreiros de matriz africana e é uma categoria histórica e política. Se usado, só como teste criativo e com validação da equipe, nunca como eixo principal. Ordem de preferência dos motes: "De consciência em ação", "O que fica", "Aquilombar".
 
 ## 12. Revisão externa de 05/10/2026 (triangulação)
 
