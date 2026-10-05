@@ -1,4 +1,4 @@
-# Sankofa · notas sobre captação com pessoas físicas no Fundo Baobá
+# Mobilização de recursos com pessoas físicas · Hipóteses para o Fundo Baobá (Sankofa)
 
 Estudo independente de Peterson Moreira, feito apenas com informações públicas, sobre como começar a trabalhar a mobilização de recursos com pessoas físicas no Fundo Baobá.
 

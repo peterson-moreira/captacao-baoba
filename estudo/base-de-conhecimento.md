@@ -21,7 +21,6 @@ Fonte da verdade do conteúdo do estudo. Todo fato tem fonte. Consultado em outu
 | De 2014 a 2021, cerca de R$ 15 milhões investidos em 833 iniciativas negras | [Giving Circle](https://baoba.org.br/baoba-fund-creates-in-brazil-the-first-giving-circle-led-by-black-people/) |
 | Programa Presente e Futuro em Movimento com o MOVER; selecionados podem entrar no banco de talentos das 49 empresas do MOVER | [Carreiras em Movimento](https://baoba.org.br/programa-presente-e-futuro-em-movimento/carreiras-em-movimento/) |
 | Apoiadores históricos citados: Kellogg, Ford, Open Society, Instituto Ibirapitanga, Citi Foundation, Instituto Unibanco, Coca-Cola Brasil, Instituto Lojas Renner | [Nossa História](https://baoba.org.br/nossa-historia/), [Giving Circle](https://baoba.org.br/baoba-fund-creates-in-brazil-the-first-giving-circle-led-by-black-people/) |
-| Relatório de atividades mais recente na página de relatórios: 2022 | [Relatórios](https://baoba.org.br/relatorios-de-atividades/) |
 
 ## 2. Jornada de doação observada
 
@@ -38,15 +37,16 @@ Fonte: [infográfico](https://www.idis.org.br/wp-content/uploads/2025/08/Infogra
 - Volume de doações individuais: R$ 24,3 bilhões, o maior da série.
 - Mediana anual por doador: R$ 480 (era R$ 300 em 2022).
 - Doadores institucionais por região: Norte 49%, Nordeste 44%, Sul 43%, Centro-Oeste 41%, Sudeste 41%. O IDIS observa que Norte, Sul e Centro-Oeste, onde a proporção mais cresceu desde 2022, enfrentaram desastres climáticos em 2024.
+- Relatório completo, p. 28: o Norte ficou em primeiro (49%), "cinco pontos percentuais à frente da região Nordeste (44%), tradicional campeã". "A longa estiagem, seguida pelo aumento de queimadas e dos focos de incêndio nos estados da região Norte, pode ter influenciado esse crescimento das doações."
 - Causas mais procuradas pelos doadores institucionais: crianças 32%, situações emergenciais 30%, saúde 26%, combate à fome 21%, causa animal 10%, população de rua 10%.
 - Correção em 05/10/2026: a versão anterior atribuía os 49% ao Nordeste (são do Norte) e punha combate à fome com 30% (o certo é situações emergenciais 30% e fome 21%). Erro de leitura do infográfico, apontado em revisão externa e conferido no PDF.
 - Confiança: 30% acham a maioria das ONGs confiável; 33% acham que deixam claro o que fazem com o dinheiro; 49% já deixaram de doar por notícias negativas; no infográfico, a falta de confiança como motivo para não doar, entre não doadores, subiu de 7% para 24%.
 
-Outros dados da mesma pesquisa, em [artigo de Fernando Nogueira (ABCR) e Vivian Fasca no site do IDIS, 07/08/2025](https://www.idis.org.br/cultura-de-doacao-recorrencia-e-confianca-o-que-revelam-os-dados-da-pesquisa-doacao-brasil-2024/):
+Outros dados do [relatório completo da Pesquisa Doação Brasil 2024](https://www.idis.org.br/wp-content/uploads/2025/08/Pesquisa-Doacao-Brasil-2024_IDIS.pdf) (IDIS, 114 páginas):
 
-- Entre não doadores, a falta de confiança e transparência é o principal motivo para não doar: 38% em 2024, contra 12% em 2020. É um recorte diferente do 7% para 24% do infográfico; na página usamos o 38%.
-- Pessoas dispostas a doar mensalmente para a mesma organização: 44% em 2022, 39% em 2024.
-- Doar para as mesmas organizações ano após ano: 49% em 2024, contra 55% em 2020 e 69% em 2015.
+- Entre não doadores, a falta de confiança e transparência "chegou à liderança" como razão para não doar (38%), "praticamente empatada com a falta de condições financeiras (37%)". Passou de 12% das citações em 2020 para 38% (p. 95). É um recorte diferente do 7% para 24% do infográfico; na página usamos o do relatório.
+- Doações mensais caíram de 44% em 2022 para 39% em 2024; doações a cada 6 meses subiram de 9% para 12% (p. 15 e p. 93).
+- Doar para as mesmas organizações ano após ano: 49% em 2024, contra 55% em 2020 e 69% em 2015. Fonte: [artigo de Fernando Nogueira (ABCR) e Vivian Fasca no site do IDIS, 07/08/2025](https://www.idis.org.br/cultura-de-doacao-recorrencia-e-confianca-o-que-revelam-os-dados-da-pesquisa-doacao-brasil-2024/).
 
 ## 4. Ferramentas
 
@@ -55,9 +55,9 @@ Outros dados da mesma pesquisa, em [artigo de Fernando Nogueira (ABCR) e Vivian 
 ## 5. Hipóteses (para testar, não conclusões)
 
 1. Uma jornada que dá para medir: entender por que há duas plataformas; em qualquer porta, medir do clique à doação e usar o mesmo número de impacto. Unificar, integrar ou manter vem depois do diagnóstico.
-2. Recorrência como padrão, para testar: mensal em destaque, R$ 40 perto da mediana anual. Com a fidelidade em queda no mercado (44% para 39%), conquistar e manter doadores mensais pode ser diferencial.
+2. Recorrência como hipótese de crescimento: mensal em destaque, R$ 40 perto da mediana anual. Com a fidelidade em queda no mercado (44% para 39%), conquistar e manter doadores mensais pode ser diferencial.
 3. A doação que permanece: fundo patrimonial como vantagem; mostrar a contrapartida, se ainda existir.
-4. Prestação de contas como campanha: relatório atualizado, carta ao doador, histórias de apoiados.
+4. Prestação de contas como campanha: relatório anual, carta ao doador, histórias de apoiados. Transparência como ferramenta de relacionamento.
 5. Escada de doadores: do mensal ao Giving Circle, com critérios claros.
 
 O que pode derrubar: os dados do CRM.
@@ -152,3 +152,14 @@ Por que o nome: o estudo parte da história do Baobá e de campanhas anteriores 
 Leituras (hipóteses):
 - 20/11 cai numa sexta, com fim de semana prolongado. A atenção à causa é alta, mas parte do público estará fora da rotina. Hipótese: concentrar conteúdo na semana anterior e no próprio dia, e o pedido mais forte de doação no Dia de Doar.
 - "Aquilombar" tem ligação com terreiros de matriz africana. Se for usado como mote, validar com a equipe.
+
+## 12. Revisão externa de 05/10/2026 (triangulação)
+
+| Fato | Fonte |
+|---|---|
+| Página "Doadores Individuais do Fundo Baobá" (27/04/2022, por Ingrid Ferreira): entrevistas com dois doadores individuais; diz que o Baobá, "além de ser apoiado por grandes empresas, tem contado com parcela da população que está abraçando a causa". Subtítulo fala em "criar uma cultura de doação" | [Doadores Individuais](https://baoba.org.br/doadores-individuais-do-fundo-baoba/) |
+
+Conferido e não confirmado: a revisão externa dizia que essa página traz uma reflexão sobre "ampliar significativamente" a base de pessoas físicas. O texto não diz isso; não usar.
+
+Conferido e confirmado contra a revisão: "Parte significativa das doações feitas pelo Fundo Baobá concentra-se na região nordeste do país" está na página [Quem Somos](https://baoba.org.br/quem-somos/), que já consta nas Fontes.
+
