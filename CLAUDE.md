@@ -22,7 +22,7 @@ Equipe do Fundo Baobá e da Uzoma Diversidade, no processo seletivo para Analist
 
 ## Estrutura
 
-- `index.html`: a página publicada. CSS embutido, sem dependências externas.
+- `index.html` e `campanha-20-novembro.html`: as páginas publicadas. CSS embutido. Única dependência externa: o contador de visitas GoatCounter (conta `sankofa-baoba`, sem cookies), no fim do `<body>` de cada página, com aviso no rodapé. Páginas novas recebem o mesmo script e o mesmo aviso.
 - `estudo/base-de-conhecimento.md`: fatos, fontes, leituras e hipóteses. É a fonte da verdade do conteúdo.
 - `privado/` (fora do git): contexto da candidatura, pontos sensíveis e backlog.
 - Páginas novas seguem o mesmo estilo do `index.html` e entram no menu do topo.
@@ -35,6 +35,7 @@ Equipe do Fundo Baobá e da Uzoma Diversidade, no processo seletivo para Analist
    - nenhum travessão (caractere Unicode U+2014) nem meia-risca (U+2013) em `*.html` e `estudo/*.md`
    - nenhum marcador de fonte no corpo: `grep -n "\[[0-9]*\]" *.html`
    - links internos do menu apontam para ids existentes
+   - o script do GoatCounter e o aviso de contagem anônima estão em todas as páginas publicadas
    - abrir o arquivo no navegador e olhar em largura de celular
 4. Commit com mensagem clara em português e push na `main`. O GitHub Pages atualiza em um ou dois minutos.
 5. Conferir a página no ar antes de avisar que terminou.
