@@ -46,8 +46,8 @@ Fonte: [infográfico](https://www.idis.org.br/wp-content/uploads/2025/08/Infogra
 
 Outros dados do [relatório completo da Pesquisa Doação Brasil 2024](https://www.idis.org.br/wp-content/uploads/2025/08/Pesquisa-Doacao-Brasil-2024_IDIS.pdf) (IDIS, 114 páginas):
 
-- Entre não doadores, a falta de confiança e transparência "chegou à liderança" como razão para não doar (38%), "praticamente empatada com a falta de condições financeiras (37%)". Passou de 12% das citações em 2020 para 38% (p. 95). É um recorte diferente do 7% para 24% do infográfico; na página usamos o do relatório.
-- Doações mensais caíram de 44% em 2022 para 39% em 2024; doações a cada 6 meses subiram de 9% para 12% (p. 15 e p. 93).
+- Entre não doadores em 2024 que não doam há mais de cinco anos (gráfico 26, p. 63, base 281): "pela primeira vez, a falta de confiança superou as condições financeiras como principal motivo para não doar, sendo citada por 38%". Condições financeiras: 37%. Em 2020, a falta de confiança era 12%. O capítulo da p. 95 descreve o mesmo dado como "praticamente empatada com a falta de condições financeiras (37%)". Na página: "passou, pela primeira vez, ... 38%, contra 37%". O 7% para 24% do infográfico é outro recorte: quem deixou de doar no último ano (base 55).
+- Frequência das doações entre doadores institucionais (Q10, "Com que frequência você costuma fazer doações de dinheiro para instituições sociais ou ONGs ou campanhas?", gráfico 22): uma vez por mês ou mais, 44% em 2022 e 39% em 2024; a cada 6 meses, 9% e 12% (p. 15 e p. 55). Atenção: o capítulo da p. 93 parafraseia como "pessoas dispostas a doar mensalmente para a mesma organização"; a pergunta mede frequência, não disposição nem fidelidade. Correção na página em 05/10/2026.
 - Doar para as mesmas organizações ano após ano: 49% em 2024, contra 55% em 2020 e 69% em 2015. Fonte: [artigo de Fernando Nogueira (ABCR) e Vivian Fasca no site do IDIS, 07/08/2025](https://www.idis.org.br/cultura-de-doacao-recorrencia-e-confianca-o-que-revelam-os-dados-da-pesquisa-doacao-brasil-2024/).
 
 ## 4. Ferramentas
@@ -57,7 +57,7 @@ Outros dados do [relatório completo da Pesquisa Doação Brasil 2024](https://w
 ## 5. Hipóteses (para testar, não conclusões)
 
 1. Uma jornada que dá para medir: entender por que há duas plataformas; em qualquer porta, medir do clique à doação e usar o mesmo número de impacto. Unificar, integrar ou manter vem depois do diagnóstico.
-2. Recorrência como hipótese de crescimento: mensal em destaque, R$ 40 perto da mediana anual. Com a fidelidade em queda no mercado (44% para 39%), conquistar e manter doadores mensais pode ser diferencial.
+2. Recorrência como hipótese de crescimento: mensal em destaque, R$ 40 perto da mediana anual. Com as doações mensais em queda no mercado (44% para 39% dos doadores institucionais), conquistar e manter doadores mensais pode ser diferencial.
 3. A doação que permanece: fundo patrimonial como vantagem; mostrar a contrapartida, se ainda existir.
 4. Prestação de contas como campanha: relatório anual, carta ao doador, histórias de apoiados. Transparência como ferramenta de relacionamento.
 5. Escada de doadores: do mensal ao Giving Circle, com critérios claros.
@@ -155,7 +155,7 @@ Por que o nome: o estudo parte da história do Baobá e de campanhas anteriores 
 
 Leituras (hipóteses):
 - 20/11 cai numa sexta, com fim de semana prolongado. A atenção à causa é alta, mas parte do público estará fora da rotina. Hipótese: concentrar conteúdo na semana anterior e no próprio dia, e o pedido mais forte de doação no Dia de Doar.
-- "Aquilombar" tem ligação com terreiros de matriz africana e é uma categoria histórica e política. Se usado, só como teste criativo e com validação da equipe, nunca como eixo principal. Ordem de preferência dos motes: "De consciência em ação", "O que fica", "Aquilombar".
+- "Aquilombar" tem ligação com terreiros de matriz africana e é uma categoria histórica e política do movimento negro. Retirado da página pública em 05/10/2026: proposto por alguém de fora, num material público, pode soar como apropriação; é o tipo de mote que a equipe deve propor, não um candidato. Fica só para a conversa, se surgir. Motes na página: "De consciência em ação" e "O que fica".
 
 ## 12. Revisão externa de 05/10/2026 (triangulação)
 
