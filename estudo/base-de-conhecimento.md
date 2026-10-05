@@ -100,6 +100,7 @@ O que pode derrubar: os dados do CRM.
 | Fato | Fonte |
 |---|---|
 | Eleições gerais: 1º turno em 4 de outubro de 2026; eventual 2º turno em 25 de outubro, para presidente e governador | [O Liberal, calendário aprovado pelo TSE](https://www.oliberal.com/politica/calendario-das-eleicoes-2026-e-aprovado-pelo-tse-veja-as-datas-dos-turnos-1.1091913) |
+| Confirmado: haverá 2º turno para presidente em 25/10/2026, e também para governador em seis estados e no Distrito Federal | [Agência Brasil, 04/10/2026](https://agenciabrasil.ebc.com.br/politica/noticia/2026-10/quando-sera-o-segundo-turno-das-eleicoes-veja-data) |
 | 20 de novembro é feriado nacional desde a Lei 14.759/2023, publicada em 22/12/2023. Antes, era feriado em seis estados e cerca de 1.200 cidades | [Agência Senado](https://www12.senado.leg.br/noticias/materias/2023/12/22/dia-da-consciencia-negra-se-torna-feriado-nacional) |
 | Dia de Doar acontece na primeira terça depois da Black Friday. Em 2026, 1º de dezembro | [Relatório Dia de Doar 2024](https://www.givingtuesday.org/wp-content/uploads/2025/08/Dia-De-Doar-Report-2024.pdf) |
 
@@ -131,7 +132,7 @@ O que pode derrubar: os dados do CRM.
 
 ### Leituras (hipóteses, não fatos)
 
-- A janela de novembro começa logo depois da eleição. O 2º turno, se houver, termina 26 dias antes do 20 de novembro. Planejar por cenários: a preparação começa já; a comunicação se ajusta se houver 2º turno.
+- A janela de novembro começa logo depois da eleição. O 2º turno, confirmado para 25/10, termina 26 dias antes do 20 de novembro. A preparação acontece nos bastidores até lá; a campanha vai para as redes a partir de 26/10.
 - Separar a causa da disputa partidária, sem suavizar a causa. O próprio Baobá se define pelo enfrentamento ao racismo e pela reparação racial; "equidade racial é causa de todos" soaria como diluir essa identidade (revisão de 05/10/2026).
 - O dado dos EUA sobre "rage giving" é de outro país e de outro sistema. Serve de pergunta, não de base para meta.
 - Os benchmarks repetem três movimentos: dado concreto de desigualdade, história de quem foi apoiado e pedido claro, de preferência mensal. O Dia de Doar acrescenta a prestação de contas depois da data.
